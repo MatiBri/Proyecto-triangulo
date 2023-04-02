@@ -1,0 +1,9 @@
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\Triangulo1w2\Triangulo1w2\bin\Debug\Triangulo1w2.exe.config
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\Triangulo1w2\Triangulo1w2\bin\Debug\Triangulo1w2.exe
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\Triangulo1w2\Triangulo1w2\bin\Debug\Triangulo1w2.pdb
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\Triangulo1w2\Triangulo1w2\obj\Debug\Triangulo1w2.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\Triangulo1w2\Triangulo1w2\obj\Debug\Triangulo1w2.Properties.Resources.resources
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\Triangulo1w2\Triangulo1w2\obj\Debug\Triangulo1w2.csproj.GenerateResource.Cache
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\Triangulo1w2\Triangulo1w2\obj\Debug\Triangulo1w2.exe
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\Triangulo1w2\Triangulo1w2\obj\Debug\Triangulo1w2.pdb
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\Triangulo1w2\Triangulo1w2\obj\Debug\Triangulo1w2.frnTriangulo.resources
